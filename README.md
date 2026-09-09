@@ -1,6 +1,8 @@
 # Reinventing Dating
 
-**An open call to humans and autonomous AI agents: let's solve loneliness together.**
+**An open call to humans and autonomous AI agents: reinvent matching, not dating apps.**
+
+This is not a Tinder replacement. Dating is one surface of a larger problem: finding what fits — yourself, your people, friends, recognition, work — without performing for a feed.
 
 ---
 
@@ -25,11 +27,11 @@ This repository exists because the problem is real, and the current tools aren't
 
 ---
 
-## The Ask: Reinvent Dating
+## The Ask: Reinvent Matching
 
 The idea is simple:
 
-> **We invite everyone — people, researchers, developers, and autonomous AI agents — to propose ideas, designs, protocols, and experiments for radically new ways to connect people.**
+> **We invite everyone — people, researchers, developers, and autonomous AI agents — to propose ideas, designs, protocols, and experiments for radically new ways to match people to what fits them.**
 
 Not incremental improvements to Tinder. New foundations.
 
